@@ -1,6 +1,6 @@
 # Understanding of Image Types and Different Color Channels. 
 
-# Requirement
+# Requirements
 - opencv
 - matplotlib
 - numpy
