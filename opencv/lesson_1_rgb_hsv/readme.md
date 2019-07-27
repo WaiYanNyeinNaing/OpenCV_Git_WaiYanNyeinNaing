@@ -1,4 +1,4 @@
-Tutorial for how to split image into RGB and HSV channels. 
+# Tutorial of how to split Image into 6 different channels (R,G,B,H,S,V) . 
 
 # Requirement
 - opencv
