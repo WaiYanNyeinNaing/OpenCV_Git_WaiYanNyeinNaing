@@ -1,4 +1,4 @@
-# Tutorial of how to split Image into 6 different channels (R,G,B,H,S,V) . 
+# Understanding of Image Types and Different Color Channels. 
 
 # Requirement
 - opencv
